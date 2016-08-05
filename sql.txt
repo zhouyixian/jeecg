@@ -1,0 +1,4 @@
+已执行的SQL语句: alter table `jeecg363`.`zyc_goods` 
+   change `goods_id` `goods_id` int(32) ZEROFILL NULL  AUTO_INCREMENT comment '货品id' 
+错误编号: 1075 
+错误信息: Incorrect table definition; there can be only one auto column and it must be defined as a key 
